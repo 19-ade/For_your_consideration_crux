@@ -8,3 +8,9 @@ chatbot.py: this is the chatbot i made. I tried making the nueral network and ev
 
 
 hello_world.py: thats the telegram bot . it also runs commands like /bonk, /woof to generate a cheems photo and a dog photo respectively. no / before words invokes the chatbot .
+
+
+I havent included the exported chat data for privacy purposes; although with a few modifications any conversation data(whatsapp , telegram etc) can be used to train the bot.
+
+
+
