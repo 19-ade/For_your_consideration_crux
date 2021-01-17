@@ -12,6 +12,8 @@ Heres the link to the bot:http://t.me/bitsian_bot
 
 I havent included the exported chat data for privacy purposes; although with a few modifications any conversation data(whatsapp , telegram etc) can be used to train the bot.
 
+**Disclaimer**:due to the absence of the whatsapp data the whatsapp_skwad.py wont work. in the chatbot script one can comment out the part where i cll the whatsapp_skwad function to run the chatbot. It will run ; will have basic greeting commands although it wont echo our whatsapp conversations.
+
 
 **continous_action_trial**: this is a q-table for continous action space for the gym enviroment (continousMountainCar-v0). I have included q-table for mountain car and cartpole so you can see the changes i made overtime  to achieve this . Im still working on DQN so in the next inductions perhaps you will see the DQN versioon.
 
