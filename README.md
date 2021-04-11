@@ -10,5 +10,5 @@
 
 **highway_env_2** : solving the highway-v0 environment. Our job is to navigate our car through traffic by changing lanes and modulating its speed. I have used DQN(Deep Q network) for the same.
 
-**highway_run** : for rendering the pretrained model .
+**highway_run** : for rendering the pretrained model . A video has been added of ai controlling the car. (highway_run.mp4)
 
