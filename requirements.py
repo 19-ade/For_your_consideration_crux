@@ -13,4 +13,7 @@ def install(package):
 
 install("gym")
 install("highway-env")
+install("tensorflow")
+install("numpy")
+install("collections")
 
