@@ -11,11 +11,6 @@ def install(package):
     print("Installed " + package.upper() + "\n")
 
 
-install("requests")
-install("beautifulsoup4")
-install("cryptography")
-install("selenium")
-install("webdriver_manager")
-install("telegram")
-install("chatterbot")
-install("chatterbot-corpus")
+install("gym")
+install("highway-env")
+
